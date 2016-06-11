@@ -1,11 +1,11 @@
-# Lisk Sandbox
+# Dl(i)sk Sandbox
 
-A specialized Node.js module for running sandboxed [Lisk](https://lisk.io/) dapps.
+A specialized Node.js module for running sandboxed [Dl(i)sk](https://dlisk.com/) dapps.
 
 ## Installation
 
 ```
-npm install lisk-sandbox
+npm install dlisk-sandbox
 ```
 
 ## Authors
@@ -13,11 +13,13 @@ npm install lisk-sandbox
 - Boris Povod <boris@crypti.me>
 - Pavel Nekrasov <landgraf.paul@gmail.com>
 - Oliver Beddows <oliver@lisk.io>
+- Jan West <janwest01987@gmail.com>
 
 ## License
   
 The MIT License (MIT)  
   
+Copyright (c) 2016 Dl(i)sk
 Copyright (c) 2016 Lisk  
 Copyright (c) 2014-2015 Crypti  
   
